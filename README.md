@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Deep Roy
+📊 Data Analyst | Python & SQL | Building Real-World Analytics Projects
 
-<!--
-**deeproy2007/deeproy2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a growing Data Analyst passionate about turning raw data into insights.
+I work with Python, SQL, Power BI, and Excel — and I love creating real-world projects in healthcare, sales, and AI adoption.
 
-Here are some ideas to get you started:
+🚀 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, SQL
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Databases: MySQL, PostgreSQL
+Tools: Power BI, Excel, Jupyter Notebook
+Areas: Data Cleaning, EDA, Dashboarding, Business Analytics
+
+📌 Featured Projects
+🔹 Healthcare Data Analysis (Python)
+
+End-to-end healthcare EDA with insights, cleaning, and visualizations.
+
+🔹 Zomato Sales Analysis (Python)
+
+Analyzed customer patterns, revenue metrics, order behavior, and trends.
+
+🔹 AI Adoption Analysis (SQL)
+
+Complex SQL queries to explore recommendation acceptance, GPA trends, and AI usage.
+
+🔹 Employee Performance SQL Analysis
+
+Real-world HR analytics using joins, aggregates, and analytical queries.
+
+📫 Connect With Me
+
+📧 Email: add your email
+🔗 LinkedIn: add your LinkedIn
+🌐 Portfolio (optional): add if you have
+
+🚀 Let’s build something amazing!
