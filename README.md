@@ -31,8 +31,7 @@ Real-world HR analytics using joins, aggregates, and analytical queries.
 
 📫 Connect With Me
 
-📧 Email: add your email
-🔗 LinkedIn: add your LinkedIn
-🌐 Portfolio (optional): add if you have
+📧 Email: royd20342@gmail.com
+
 
 🚀 Let’s build something amazing!
