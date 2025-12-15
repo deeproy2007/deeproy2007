@@ -1,5 +1,5 @@
 👋 Hi, I'm Deep Roy
-📊 Data Analyst | Python & SQL | Building Real-World Analytics Projects
+📊 Data Analyst | Python & SQL & Power bi | Building Real-World Analytics Projects
 
 I’m a growing Data Analyst passionate about turning raw data into insights.
 I work with Python, SQL, Power BI, and Excel — and I love creating real-world projects in healthcare, sales, and AI adoption.
