@@ -29,6 +29,10 @@ Complex SQL queries to explore recommendation acceptance, GPA trends, and AI usa
 
 Real-world HR analytics using joins, aggregates, and analytical queries.
 
+🔹netflix Data Analysis
+
+
+
 📫 Connect With Me
 
 📧 Email: royd20342@gmail.com
