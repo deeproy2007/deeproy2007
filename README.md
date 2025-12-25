@@ -13,28 +13,25 @@ Tools: Power BI, Excel, Jupyter Notebook
 Areas: Data Cleaning, EDA, Dashboarding, Business Analytics
 
 📌 Featured Projects
-🔹 Healthcare Data Analysis (Python)
+### 🔹 End-to-End Healthcare Data Analysis (Python)  
+Full cycle data cleaning → exploratory analysis → visualization.
 
-End-to-end healthcare EDA with insights, cleaning, and visualizations.
+### 🔹 Zomato Sales Analysis (Python)  
+Customer behavior breakdown, revenue trends and actionable insights.
 
-🔹 Zomato Sales Analysis (Python)
+### 🔹 AI Adoption SQL Analysis  
+Complex SQL for real dataset insights — not surface level queries.
 
-Analyzed customer patterns, revenue metrics, order behavior, and trends.
+### 🔹 Amazon Sales Data (Python)  
+Trend analysis + data storytelling with code that runs.
 
-🔹 AI Adoption Analysis (SQL)
-
-Complex SQL queries to explore recommendation acceptance, GPA trends, and AI usage.
-
-🔹 Employee Performance SQL Analysis
-
-Real-world HR analytics using joins, aggregates, and analytical queries.
-
-🔹netflix Data Analysis
+### 🔹 Employee SQL Analysis  
+SQL joins, aggregates, business analytics queries.
 
 
 
 📫 Connect With Me
-
+Phone: +918918129329
 📧 Email: royd20342@gmail.com
 
 
