@@ -22,11 +22,9 @@ Customer behavior breakdown, revenue trends and actionable insights.
 ### 🔹 AI Adoption SQL Analysis  
 Complex SQL for real dataset insights — not surface level queries.
 
-### 🔹 Amazon Sales Data (Python)  
-Trend analysis + data storytelling with code that runs.
 
-### 🔹 Employee SQL Analysis  
-SQL joins, aggregates, business analytics queries.
+
+
 
 
 
