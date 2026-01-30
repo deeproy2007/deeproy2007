@@ -13,7 +13,10 @@ Tools: Power BI, Excel, Jupyter Notebook
 Areas: Data Cleaning, EDA, Dashboarding, Business Analytics
 
 📌 Featured Projects
-### 🔹 End-to-End Healthcare Data Analysis (Python)  
+### 🔹Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business
+Developed an end-to-end SQL , Power BI and Python analytics solution to analyze e-commerce performance, customer behavior, and support business decision-making
+
+### 🔹 Healthcare Data Analysis (Python)  
 Full cycle data cleaning → exploratory analysis → visualization.
 
 ### 🔹 Zomato Sales Analysis (Python)  
