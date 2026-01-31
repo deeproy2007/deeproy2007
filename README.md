@@ -19,8 +19,6 @@ Developed an end-to-end SQL , Power BI and Python analytics solution to analyze 
 ### 🔹 Healthcare Data Analysis (Python)  
 Full cycle data cleaning → exploratory analysis → visualization.
 
-### 🔹 Zomato Sales Analysis (Python)  
-Customer behavior breakdown, revenue trends and actionable insights.
 
 ### 🔹 AI Adoption SQL Analysis  
 Complex SQL for real dataset insights — not surface level queries.
