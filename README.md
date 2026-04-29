@@ -23,7 +23,7 @@ Developed an end-to-end SQL , Power BI and Python analytics solution to analyze 
 Full cycle data cleaning → exploratory analysis → visualization.
 
 
-### 🔹 AI Adoption SQL Analysis  
+### 🔹 Road Accident Analysis
 Complex SQL for real dataset insights — not surface level queries.
 
 
