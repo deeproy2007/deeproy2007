@@ -10,7 +10,7 @@ Languages: Python, SQL
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Databases: MySQL, PostgreSQL
 Tools: Power BI, Excel, Jupyter Notebook, Tableau, Looker studio
-Areas: Data Cleaning, EDA, Dashboarding, Business Analytics
+Areas: Data Cleaning, EDA, Dashboarding, Business Analytics, Business solution
 
 📌 Featured Projects
 ### 🔹Banking Churn Analysis With Risk Scoring Model
