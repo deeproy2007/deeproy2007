@@ -17,7 +17,7 @@ Areas: Data Cleaning, EDA, Dashboarding, Business Analytics, Business solution
 I analysed Churn project where the bank was losing around 185M in customer asset. 
 In this project I am not just only identify churn rate.
 I focus in two Question:
-        Where the higher financial risk?
+        Where the higher financial risk exist?
         What factor drive that risk?
 
 ### 🔹Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business
