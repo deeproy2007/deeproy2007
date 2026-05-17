@@ -13,7 +13,7 @@ Tools: Power BI, Excel, Jupyter Notebook, Tableau, Looker studio
 Areas: Data Cleaning, EDA, Dashboarding, Business Analytics, Business solution
 
 📌 Featured Projects
-### 🔹Banking Churn Analysis With Risk Scoring Model
+## 🔹Banking Churn Analysis With Risk Scoring Model
 I analysed Churn project where the bank was losing around 185M in customer asset. 
 In this project I am not just only identify churn rate.
 I focus in two Question:
