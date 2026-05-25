@@ -30,7 +30,7 @@ Full cycle data cleaning → exploratory analysis → visualization.
 ### 🔹 Road Accident Analysis
 Complex SQL for real dataset insights — not surface level queries.
 
-### 🔹 Ecommerce Project For Exclusive Summery, Order Fullfillment, Delivery Tracking Dashboards
+### 🔹 Sales Profit Analysis
 
 
 
