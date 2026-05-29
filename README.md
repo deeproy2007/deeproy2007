@@ -37,7 +37,7 @@ The customer facing a profit issue where the sales was incrised but profit not.
 
 
 📫 Connect With Me
-📧 Email: royd20342@gmail.com
+- 📧 Email: royd20342@gmail.com
 
 
 🚀 Let’s build something amazing!
