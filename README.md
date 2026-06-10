@@ -7,7 +7,7 @@ I work with Python, SQL, Power BI, and Excel — and I love creating real-world 
 🚀 Skills & Tools
 
 Languages: Python, SQL
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Libraries: Pandas, NumPy, Matplotlib, SeaBorn
 Databases: MySQL, PostgreSQL
 Tools: Power BI, Excel, Jupyter Notebook, Tableau, Looker studio
 Areas: Data Cleaning, EDA, Dashboarding, Business Analytics, Business solution
