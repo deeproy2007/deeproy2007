@@ -18,7 +18,7 @@ I analysed Churn project where the bank was losing around 185M in customer asset
 In this project I am not just only identify churn rate.
 I focus in two Question:
         Where the higher financial risk exist?
-        What factor drive that risk?
+        What Factor Drive That Risk?
 
 ### 🔹Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business
 Developed an end-to-end SQL , Power BI and Python analytics solution to analyze e-commerce performance, customer behavior, and support business decision-making
