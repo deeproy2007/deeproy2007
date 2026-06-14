@@ -31,7 +31,7 @@ Full cycle data cleaning → exploratory analysis → visualization.
 Complex SQL for real dataset insights — not surface level queries.
 
 ### 🔹 Sales And Profit Analysis
-The customer facing a profit issue where the sales was incrised but profit not.Then I built a solution using power bi how to incrise profit with less invesment.
+The customer facing a profit issue where the sales was incrised but profit not.Then I built a solution using Power Bi how to incrise profit with less invesment.
 
 
 
