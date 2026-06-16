@@ -2,7 +2,7 @@
 📊 Data Analyst | Python & SQL & Power bi & Tabealu & Looker Studio| Building Real-World Analytics Projects
 
 I’m a growing Data Analyst Passionate about turning raw data into insights.
-I work with Python, SQL, Power BI, and Excel — and I love creating real-world projects in healthcare, sales, and AI adoption.
+I work with Python, SQL, Power BI, and Excel — and I love creating real-world projects in Healthcare, sales, and AI adoption.
 
 🚀 Skills & Tools
 
