@@ -9,7 +9,7 @@ I work with Python, SQL, Power BI, and Excel — and I love creating real-world 
 Languages: Python, SQL
 Libraries: Pandas, NumPy, Matplotlib, SeaBorn
 Databases: MySQL, PostgreSQL
-Tools: Power BI, Excel, Jupyter Notebook, Tableau, Looker studio
+Tools: Power BI, Excel, Jupyter Notebook, Tableau, Looker Studio
 Areas: Data Cleaning, EDA, Dashboarding, Business Analytics, Business solution
 
 📌 Featured Projects
