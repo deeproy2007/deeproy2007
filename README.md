@@ -20,7 +20,7 @@ I focus in two Question:
         Where the higher financial risk exist?
         What Factor Drive That Risk?
 
-### 🔹Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business
+### 🔹Customer-Revenue-Performance-Analysis-for-an-E-commerce-Business(SQL, Python, Power Bi)
 Developed an end-to-end SQL , Power BI and Python analytics solution to analyze e-commerce performance, customer behavior, and support business decision-making
 
 ### 🔹 Healthcare Data Analysis (Python)  
