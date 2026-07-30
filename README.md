@@ -4,7 +4,7 @@
 I’m a growing Data Analyst Passionate about turning raw data into insights.
 I work with Python, SQL, Power BI, and Excel — and I love creating real-world projects in Healthcare, sales, and AI adoption.
 
-####🚀 Skills & Tools
+### Skills & Tools
 
 Languages: Python, SQL
 Libraries: Pandas, NumPy, Matplotlib, SeaBorn
